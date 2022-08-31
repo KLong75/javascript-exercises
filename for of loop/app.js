@@ -3,3 +3,4 @@ let tenAlbum = ['once', 'even flow', 'alive', 'why go', 'black', 'jeremy', 'ocea
 for (let songs of tenAlbum) {
   console.log(songs);
 }
+
