@@ -1,5 +1,5 @@
 const pearlJam = {
-    'Eddie Vedder'    : 'vocals',
+    'Eddie Vedder'    : 'vocals, guitar',
     'Stone Gossard'   : 'guitar',
     'Jeff Ament'      : 'bass',
     'Mike McCready'   : 'guitar',
