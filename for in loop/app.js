@@ -1,3 +1,4 @@
+// use a "for in loop" to iterate over the keys in an object
 const pearlJam = {
     'Eddie Vedder'    : 'vocals, guitar',
     'Stone Gossard'   : 'guitar',

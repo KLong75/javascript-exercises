@@ -92,7 +92,9 @@ function shufflePlay() {
     // console.log(selectedTuneIndex)
     // console.log(pearlJamTunes[selectedTuneIndex])
     randomPlayList.push(pearlJamTunes[selectedTuneIndex])
+    // if (randomPlayList.length === pearlJamTunes.length) {
     console.log(randomPlayList);
+  // }
   }
 }
 
