@@ -39,9 +39,14 @@ const mattOnDrums = coolBands.filter(drummer => {
 
 console.log(mattOnDrums[0].bandName);
 console.log(mattOnDrums[1].bandName);
+console.log(mattOnDrums);
 
   
 //  const mattOnDrums = coolBands.filter(drummer => drummer.drums === 'Matt Cameron');
 
+const nums = [ 4, 11, 22, 34, 47, 59, 64, 73, 87, 92];
 
-
+const odds = nums.filter(n => n % 2 === 1)
+const evens = nums.filter(n => n % 2 === 0)
+console.log(odds)
+console.log(evens)
