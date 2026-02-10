@@ -17,6 +17,6 @@ const hairMetalBands = ['Poison', 'Cinderella', 'Motley Crue']
 const grungeBands = ['Nirvana', 'Pearl Jam', 'Alice In Chains']
 const rockBands = [...hairMetalBands, ...grungeBands]
 
-console.log(hairMetalBands)
-console.log(grungeBands)
-console.log(rockBands)
+console.log("hair metal bands:", hairMetalBands)
+console.log("grunge bands:", grungeBands)
+console.log("rock bands:", rockBands)
