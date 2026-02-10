@@ -14,12 +14,9 @@ listBandMembers(...pearlJam)
 
 // spread in array literal
 const hairMetalBands = ['Poison', 'Cinderella', 'Motley Crue']
-
 const grungeBands = ['Nirvana', 'Pearl Jam', 'Alice In Chains']
-
 const rockBands = [...hairMetalBands, ...grungeBands]
-
-console.log(rockBands)
 
 console.log(hairMetalBands)
 console.log(grungeBands)
+console.log(rockBands)

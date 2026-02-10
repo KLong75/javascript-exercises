@@ -34,5 +34,5 @@ const coolBands = [
 ]
 
 coolBands.forEach(function (band) {
-    console.log(band.vocals.toUpperCase())
+    console.log(`${band.vocals.toUpperCase()} is the vocalist for ${band.bandName}`)
 })

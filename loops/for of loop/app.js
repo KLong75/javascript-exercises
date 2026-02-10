@@ -1,6 +1,6 @@
 let tenAlbum = ['once', 'even flow', 'alive', 'why go', 'black', 'jeremy', 'oceans', 'porch', 'garden', 'deep', 'release']
 
 for (let songs of tenAlbum) {
-  console.log(songs);
+  console.log(`${songs} is song number ${tenAlbum.indexOf(songs) + 1} on the album ten by pearl jam`);
 }
 
